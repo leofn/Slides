@@ -84,3 +84,25 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Classificação escolar 
 
 > "A classificação escolar é uma classificação social eufemizada, portanto naturalizada, absolutizada, uma classificação social que já sofreu uma censura, portanto uma alquimia, uma transformação tendendo a transformar as diferenças de classe em diferenças de "inteligência", de "dom", isto é, em diferenças de natureza"
+
+#  BOURDIEU, P. A Escola conservadora e as desigualdades frente à escola e à cultura. In: CATANI, A. (org). Escritos de Educação. Petrópolis: Vozes, 1998, pp. 41-64.
+
+
+## A Escola conservadora
+
+> É provavelmente por um efeito de **inércia cultural** que continuamos tomando o sistema escolar como um fator de mobilidade social quando, ao contrário, tudo tende a mostrar que ele é um dos fatores mais eficazes de conservação social, pois fornece a **aparência de legitimidade às desigualdades sociais, e sanciona a herança cultural e o dom social tratado como dom natural**.
+
+## A Escola conservadora
+
+- Classes social, capital cultural e social = êxito escolar
+
+<br>
+
+- O nível cultural global do grupo familiar = êxito escolar
+
+<br>
+
+- capital cultural mais rentável na universidade: informações sobre o mundo universitário, o *cursus*, facilidade verbal e cultura livre/geral.
+
+
+
