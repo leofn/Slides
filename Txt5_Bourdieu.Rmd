@@ -7,8 +7,10 @@ date: "23/08/2021"
 output: beamer_presentation
 ---
 
-{r setup, include=FALSE}
+
+```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+```
 
 ##  "Não há um racismo, mas vários racismos..."
 
@@ -22,7 +24,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <br>
 
-- A reprodução social desta classe dominte "depende em parte da transmissão do capital cultural"
+- A reprodução social desta classe dominante "depende em parte da transmissão do capital cultural"
 
 
 ## O que é capital cultural?
@@ -105,4 +107,36 @@ knitr::opts_chunk$set(echo = FALSE)
 - capital cultural mais rentável na universidade: informações sobre o mundo universitário, o *cursus*, facilidade verbal e cultura livre/geral.
 
 
+## A Escola conservadora
+
+- nem o vestibular nem a universidade faz/fazia parte do horizonte das famílias pobres; 
+
+<br>
+
+- "Em todos os domínios da cultura, teatro, música, pintura, jazz, cinema, os conhecimentos dos estudantes são tão mais ricos e extensos quanto mais elevada é sua origem social" (p.45)
+
+## Economia das trocas línguísticas
+
+- a importância fundamental do manejo da língua;
+
+<br>
+
+- "transmisão de maneira osmótica": o problema da "incorporação"
+
+
+## Lugar e destino social
+
+- Qual é o meu/seu lugar?
+
+<br>
+
+- O "lugar" e por tabela o "destino" social é lembrado a todo momento
+
+<br>
+
+- Os desejos das famílias reproduzem a estratificação social: "não desejar o impossível" X "ethos ascético de ascensão social"
+
+<br>
+
+- 
 
