@@ -54,7 +54,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - Crenças, jeitos, maneiras, valores, etc.
 
-## Capital social
+## O que é capital social?
 
 
 - Quem você conhece?
@@ -73,7 +73,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <br>
 
-- "eles (precisam) sentir como possuindo uma essência superior
+- eles (precisam) sentir como possuindo uma "essência superior".
 
 # "Todo racismo é um essencialismo"
 
@@ -115,15 +115,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - "Em todos os domínios da cultura, teatro, música, pintura, jazz, cinema, os conhecimentos dos estudantes são tão mais ricos e extensos quanto mais elevada é sua origem social" (p.45)
 
-## Economia das trocas línguísticas
-
-- a importância fundamental do manejo da língua;
-
-<br>
-
-- "transmisão de maneira osmótica": o problema da "incorporação"
-
-
 ## Lugar e destino social
 
 - Qual é o meu/seu lugar?
@@ -136,7 +127,22 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - Os desejos das famílias reproduzem a estratificação social: "não desejar o impossível" X "ethos ascético de ascensão social"
 
+
+## Economia das trocas línguísticas
+
+- a importância fundamental do manejo da língua;
+
 <br>
 
-- 
+- "transmisão de maneira osmótica": o problema da "incorporação"
 
+<br>
+
+- hierarquia dos valores intclectuais que dá aos manipuladores prestigiosos de palavras e idéias superioridade sobre os humildes servidores das técnicas
+
+<br>
+
+- sistema que tem por função conservar os valores que fundamentam a ordem social.
+
+
+#  Debate: Universidade, reprodução ou emancipação?
