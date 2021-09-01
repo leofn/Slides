@@ -75,7 +75,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - "grande parte do software educacional será excelente e de fato superior às aulas ministradas por mestres que proliferaram desde a criação da primeira universidade";
 
 
-# economia, velocidade, conforto e liberdade???
+# + economia, velocidade, conforto e liberdade???
 
 - "A internet dispensará os estudantes de viajar longas distâncias"; 
 
@@ -123,9 +123,52 @@ custos."
 
 <br>
 
-- Quais as qualificações mais importantes entre as garantidas pelo diploma superior?
+- "Nossos diplomas parecem atestar uma competência cada vez menor".
+
+<br>
+
+
+# Quais as qualificações mais importantes garantidas pelo diploma superior?
+
+
+1. "habilidade de utilizar a razão para ver com mais clareza" 
+
+<br>
+
+2. "pensar criticamente e de escrever de forma clara" 
+
+<br>
+
+3. "Para pensar criticamente, é preciso dominar o uso das ferramentas do pensamento e da análise, tais como a lógica e o método científico. 
+
+<br>
+
+4. Para isso não se pode deixar para trás a organização prévia do conhecimento e a constante
+avaliação das informações novas, avaliação esta que é atualmente tarefa das universidades.
+
+
+# O fim da Universidade?
+
+> Se os empregadores deixassem de ver os diplomas universitários como índices de aptidão para o trabalho, as universidades talvez não fossem mais vistas sobretudo corno fornecedoras de credenciais
+
+
+
+# Universidade como agente de mudanças
+
+> "Isso se deve em parte aos valores que a verdadeira universidade preza acima de tudo: liberdade
+(não só a acadêmica), não-discriminação (todos serão ouvidos independentemente de sexo, raça, etnia e religião) e igualdade de oportunidade"
+
 
 #
 
 > "Um mundo em que permanecer de pé, imóvel, significa cair" (p.51)
 
+# Responsabilidade
+
+> "todas as universidades terão de adotar estruturas administrativas que valorizem a responsabilidade em todos os níveis."
+
+# 
+
+
+Obrigado!
+(Dúvidas, perguntas?)
