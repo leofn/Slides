@@ -12,7 +12,6 @@ output: beamer_presentation
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-
 # Texto 5 - BOURDIEU, Pierre. O racismo da inteligência. In: BOURDIEU, P. Questões de Sociologia. Rio de Janeiro: Marco Zero,1983. p. 205-208.
 
 
@@ -28,7 +27,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <br>
 
-- A reprodução social desta classe dominte "depende em parte da transmissão do capital cultural"
+- A reprodução social desta classe dominante "depende em parte da transmissão do capital cultural"
 
 
 ## O que é capital cultural?
@@ -58,7 +57,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - Crenças, jeitos, maneiras, valores, etc.
 
-## Capital social
+## O que é capital social?
 
 
 - Quem você conhece?
@@ -77,7 +76,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <br>
 
-- "eles (precisam) sentir como possuindo uma essência superior
+- eles (precisam) sentir como possuindo uma "essência superior".
 
 # "Todo racismo é um essencialismo"
 
@@ -91,8 +90,63 @@ knitr::opts_chunk$set(echo = FALSE)
 
 > "A classificação escolar é uma classificação social eufemizada, portanto naturalizada, absolutizada, uma classificação social que já sofreu uma censura, portanto uma alquimia, uma transformação tendendo a transformar as diferenças de classe em diferenças de "inteligência", de "dom", isto é, em diferenças de natureza"
 
+#  BOURDIEU, P. A Escola conservadora e as desigualdades frente à escola e à cultura. In: CATANI, A. (org). Escritos de Educação. Petrópolis: Vozes, 1998, pp. 41-64.
 
-## Texto 5 - complementar
+
+## A Escola conservadora
+
+> É provavelmente por um efeito de **inércia cultural** que continuamos tomando o sistema escolar como um fator de mobilidade social quando, ao contrário, tudo tende a mostrar que ele é um dos fatores mais eficazes de conservação social, pois fornece a **aparência de legitimidade às desigualdades sociais, e sanciona a herança cultural e o dom social tratado como dom natural**.
+
+## A Escola conservadora
+
+- Classes social, capital cultural e social = êxito escolar
+
+<br>
+
+- O nível cultural global do grupo familiar = êxito escolar
+
+<br>
+
+- capital cultural mais rentável na universidade: informações sobre o mundo universitário, o *cursus*, facilidade verbal e cultura livre/geral.
 
 
-> "É provavelmente por um efeito de **inércia cultural** que continuamos tomando o sistema escolar como um fator de mobilidade social, segundo a ideologia da "escola libertadora", quando, ao contrário, **tudo tende a mostrar que ele é um dos fatores mais eficazes de conservação social**, pois fornece a aparência de legitimidade às desigualdades sociais, e sanciona a herança cultural e o dom social tratado como dom natural" (p.41)
+## A Escola conservadora
+
+- nem o vestibular nem a universidade faz/fazia parte do horizonte das famílias pobres; 
+
+<br>
+
+- "Em todos os domínios da cultura, teatro, música, pintura, jazz, cinema, os conhecimentos dos estudantes são tão mais ricos e extensos quanto mais elevada é sua origem social" (p.45)
+
+## Lugar e destino social
+
+- Qual é o meu/seu lugar?
+
+<br>
+
+- O "lugar" e por tabela o "destino" social é lembrado a todo momento
+
+<br>
+
+- Os desejos das famílias reproduzem a estratificação social: "não desejar o impossível" X "ethos ascético de ascensão social"
+
+
+## Economia das trocas línguísticas
+
+- a importância fundamental do manejo da língua;
+
+<br>
+
+- "transmisão de maneira osmótica": o problema da "incorporação"
+
+<br>
+
+- hierarquia dos valores intclectuais que dá aos manipuladores prestigiosos de palavras e idéias superioridade sobre os humildes servidores das técnicas
+
+<br>
+
+- sistema que tem por função conservar os valores que fundamentam a ordem social.
+
+
+#  Debate: Universidade, reprodução ou emancipação?
+
