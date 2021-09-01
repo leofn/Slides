@@ -7,8 +7,14 @@ date: "23/08/2021"
 output: beamer_presentation
 ---
 
-{r setup, include=FALSE}
+
+```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+# Texto 5 - BOURDIEU, Pierre. O racismo da inteligência. In: BOURDIEU, P. Questões de Sociologia. Rio de Janeiro: Marco Zero,1983. p. 205-208.
+
 
 ##  "Não há um racismo, mas vários racismos..."
 
@@ -84,3 +90,9 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Classificação escolar 
 
 > "A classificação escolar é uma classificação social eufemizada, portanto naturalizada, absolutizada, uma classificação social que já sofreu uma censura, portanto uma alquimia, uma transformação tendendo a transformar as diferenças de classe em diferenças de "inteligência", de "dom", isto é, em diferenças de natureza"
+
+
+## Texto 5 - complementar
+
+
+> "É provavelmente por um efeito de **inércia cultural** que continuamos tomando o sistema escolar como um fator de mobilidade social, segundo a ideologia da "escola libertadora", quando, ao contrário, **tudo tende a mostrar que ele é um dos fatores mais eficazes de conservação social**, pois fornece a aparência de legitimidade às desigualdades sociais, e sanciona a herança cultural e o dom social tratado como dom natural" (p.41)
