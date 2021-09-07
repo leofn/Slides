@@ -1,0 +1,121 @@
+---
+title: "Personalidade e Socialização"
+author: "Leonardo F. Nascimento"
+date: "19/04/2021"
+output:
+  ioslides_presentation: default
+  beamer_presentation: default
+subtitle: ICTIA067 - Estudos em Contemporaneidade - I
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Personalidade e socialização
+
+> Sob certos aspectos, cada homem é:
+<br>
+
+>a) Como todos os outros homens.
+<br>
+
+>b) Como alguns outros homens.
+<br>
+
+>c) Como nenhum outro homem.
+
+
+
+>(Clyde Kluckhohn e Henry A. Murray
+(orgs.). Personality in Nature, Society
+and Culture. Nova York, Alfred A.
+Knopf, 1949. p. 35.)
+
+## Fatores no desenvolvimento da personalidade
+
+>Os fatores no desenvolvimento da personalidade são: (l) herança biológica, (2) ambiente físico, (3) cultura, (4) experiência de grupo e (5) experiência única
+
+## Herança biológica e personalidade
+
+> Uma casa de tijolos não pode ser construída com pedras ou bambus; mas de uma pilha de tijolos pode ser construída una grande variedade de casas. A herança biológica proporciona as matérias-primas da personalidade, e estas matérias-primas podem ser moldadas de muitas maneiras diferentes.
+
+## Ambiente físico e personalidade
+
+>Em qualquer espécie de clima pode-se encontrar qualquer tipo de personalidade.
+
+## Cultura e personalidade
+
+>Algumas experiências são comuns a todas as culturas.
+<br>
+
+>Personalidade “modal”
+<br>
+
+## O dobuano ansioso x Os cooperativos Zuñi
+
+>“Cada sociedade desenvolve um ou mais tipos básicos de personalidade que se ajustam à cultura. Os dobuanos não treinam consciente ou intencionalmente os filhos para serem hostis e desconfiados; mas a atmosfera de traição e medo constantes produz este resultado. Cada cultura, sendo simplesmente o que é, molda a personalidade que se ajusta a ela.”(p.75)
+<br>
+
+## Normas da cultura
+
+> A partir do momento em que nasce, a criança é tratada de certas maneiras que moldam a personalidade. Cada cultura propicia um conjunto de influências gerais que variam infindavelmente de uma sociedade para outra. (p.75)
+<br>
+
+>“...é a atmosfera total e não uma prática específica que tem importância no desenvolvimento da personalidade. Importa menos saber se a criança é amamentada no peito ou na mamadeira; o importante é verificar se esta alimentação é um momento afetuoso de carinho, em um mundo aconchegante e seguro, ou um incidente apressado, casual, em um ambiente impessoal, destituído de sentimentos e de envolvimento. (p.75-76)
+<br>
+
+## Tipos de personalidade cultural
+
+> Parece inevitável um relacionamento íntimo entre personalidade e cultura, porque, em certo sentido, ambas são dois aspectos da mesma coisa. (p.76)
+<br>
+
+>“Em uma sociedade estável, bem integrada, a personalidade é um aspecto individual da cultura, ao passo que a cultura é um aspecto coletivo da personalidade.” Spiro [1951] (p.76)
+<br>
+
+## Personalidade modal e subculturas
+
+>“não podemos descrever a personalidade normal[modal] (...) sem primeiramente fazer referência à subcultura que temos em mente” (p.76)
+<br>
+
+>Cada sociedade e cada grupo social permite um certo grau de desvio em relação à personalidade modal. Quando este desvio vai além do que o grupo ou a sociedade consideram “normal”, então a pessoa é considerada “desviante”.
+<br>
+
+## Socialização e o eu
+
+>“socialização é o processo peto qual uma pessoa internaliza as normas dos grupos em que vive, de modo que surja um ‘eu’ distinto, único para um dado indivíduo” (p.77)
+<br>
+
+>Quando a vida de uma pessoa começa não existe eu...
+<br>
+
+>Sem a experiência grupal a personalidade humana não se desenvolve...
+<br>
+
+## Cooley e o eu do espelho
+
+>O conceito do eu é desenvolvido por meio de um processo gradual e complexo que continua a vida toda. O conceito é uma imagem que a pessoa forma somente com o auxílio de outras. (p.78)
+<br>
+
+>A auto-imagem de uma pessoa não precisa ter relação com fatos objetivos. (p.78)
+<br>
+
+>...é nossa percepção das respostas dos outros e não suas respostas reais que molda nossa autoimagem, e tais percepções com frequência são inexatas.
+<br>
+
+## Mead e o “outro generalizado”
+
+> O ‘outro generalizado’ é o conjunto das expectativas que uma pessoa acredita que os outros tenham a seu respeito. (p. 79)
+<br>
+
+>“os outros significantes”: são as pessoas que exercem grande influência nas atitudes dos indivíduos...
+<br>
+
+## Freud e o eu anti-social
+
+>Reinvindicações pulsionais do indivíduo X possibilidade sociais limitadas de satisfação
+
+## Id, ego e supergo
+
+>Processos Inconscientes 
+https://meet.google.com/gtx-haaf-eme
