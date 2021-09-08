@@ -3,8 +3,8 @@ title: "Personalidade e Socialização"
 author: "Leonardo F. Nascimento"
 date: "19/04/2021"
 output:
-  ioslides_presentation: default
   beamer_presentation: default
+  ioslides_presentation: default
 subtitle: ICTIA067 - Estudos em Contemporaneidade - I
 ---
 
