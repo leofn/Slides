@@ -4,7 +4,6 @@ author: "Leonardo F. Nascimento"
 date: "19/04/2021"
 output:
   beamer_presentation: default
-  ioslides_presentation: default
 subtitle: ICTIA067 - Estudos em Contemporaneidade - I
 ---
 
@@ -62,6 +61,8 @@ Knopf, 1949. p. 35.)
 > A partir do momento em que nasce, a criança é tratada de certas maneiras que moldam a personalidade. Cada cultura propicia um conjunto de influências gerais que variam infindavelmente de uma sociedade para outra. (p.75)
 <br>
 
+## Normas da cultura
+
 >“...é a atmosfera total e não uma prática específica que tem importância no desenvolvimento da personalidade. Importa menos saber se a criança é amamentada no peito ou na mamadeira; o importante é verificar se esta alimentação é um momento afetuoso de carinho, em um mundo aconchegante e seguro, ou um incidente apressado, casual, em um ambiente impessoal, destituído de sentimentos e de envolvimento. (p.75-76)
 <br>
 
@@ -69,6 +70,8 @@ Knopf, 1949. p. 35.)
 
 > Parece inevitável um relacionamento íntimo entre personalidade e cultura, porque, em certo sentido, ambas são dois aspectos da mesma coisa. (p.76)
 <br>
+
+## Tipos de personalidade cultural
 
 >“Em uma sociedade estável, bem integrada, a personalidade é um aspecto individual da cultura, ao passo que a cultura é um aspecto coletivo da personalidade.” Spiro [1951] (p.76)
 <br>
@@ -78,15 +81,20 @@ Knopf, 1949. p. 35.)
 >“não podemos descrever a personalidade normal[modal] (...) sem primeiramente fazer referência à subcultura que temos em mente” (p.76)
 <br>
 
+## Personalidade modal e subculturas
+
 >Cada sociedade e cada grupo social permite um certo grau de desvio em relação à personalidade modal. Quando este desvio vai além do que o grupo ou a sociedade consideram “normal”, então a pessoa é considerada “desviante”.
 <br>
 
 ## Socialização e o eu
 
->“socialização é o processo peto qual uma pessoa internaliza as normas dos grupos em que vive, de modo que surja um ‘eu’ distinto, único para um dado indivíduo” (p.77)
+>Quando a vida de uma pessoa começa não existe eu...
+
 <br>
 
->Quando a vida de uma pessoa começa não existe eu...
+>“socialização é o processo pelo qual uma pessoa internaliza as normas dos grupos em que vive, de modo que surja um ‘eu’ distinto, único para um dado indivíduo” (p.77)
+
+
 <br>
 
 >Sem a experiência grupal a personalidade humana não se desenvolve...
@@ -95,27 +103,67 @@ Knopf, 1949. p. 35.)
 ## Cooley e o eu do espelho
 
 >O conceito do eu é desenvolvido por meio de um processo gradual e complexo que continua a vida toda. O conceito é uma imagem que a pessoa forma somente com o auxílio de outras. (p.78)
-<br>
+
+## Cooley e o eu do espelho
+
 
 >A auto-imagem de uma pessoa não precisa ter relação com fatos objetivos. (p.78)
-<br>
+
+## Cooley e o eu do espelho
 
 >...é nossa percepção das respostas dos outros e não suas respostas reais que molda nossa autoimagem, e tais percepções com frequência são inexatas.
-<br>
+
 
 ## Mead e o “outro generalizado”
 
-> O ‘outro generalizado’ é o conjunto das expectativas que uma pessoa acredita que os outros tenham a seu respeito. (p. 79)
-<br>
+- O ‘outro generalizado’ é o conjunto das expectativas que uma pessoa acredita que os outros tenham a seu respeito. (p. 79)
 
->“os outros significantes”: são as pessoas que exercem grande influência nas atitudes dos indivíduos...
-<br>
+
+- “os outros significantes”: são as pessoas que exercem grande influência nas atitudes dos indivíduos...
+
 
 ## Freud e o eu anti-social
 
->Reinvindicações pulsionais do indivíduo X possibilidade sociais limitadas de satisfação
+- Reinvindicações pulsionais do indivíduo X possibilidade sociais limitadas de satisfação
 
-## Id, ego e supergo
+- Consciente x Inconsciente 
 
->Processos Inconscientes 
-https://meet.google.com/gtx-haaf-eme
+- Id(Isso), ego (Eu) e supergo (Supereu)
+
+- maniras de representação da personalidade e não entidades reais 
+
+
+## Grupos múltiplos e socialização
+
+- "Eu não sou nem sou outro, sou qualquer coisa de *intermezzo*" (Mário de Sá-Carneiro)
+
+## Grupos múltiplos e socialização
+
+> "Em uma sociedade complexa, a experiência de grupo de uma pessoa nem sempre é congruente e harmoniosa" (p.80)
+
+
+- Múltiplos "eus", múltiplos papéis...
+
+- auto-imagem: "ver é comportar-se. Comportamo-nos da maneira que nos vemos" (p.82)
+
+
+## Experiência única e personalidade
+
+> "Por que é que crianças criadas na mesma família são tão diferentes entre si, apesar de terem as mesmas experiências? Elas não tiveram as mesmas experiências, ou melhor, ·tiveram experiências sociais semelhantes sob certos aspectos e diferentes em outros. (p.82)
+
+## Experiência única e personalidade
+
+- A experiência de cada pessoa é única porque nenhuma outra consegue duplicá-la perfeitamente.
+
+
+- as experiências não se somam meramente umas às outras, elas se integram
+
+
+- O significado e o impacto de uma experiênCia dependem das outras experiências que a precederam (e influenciam as subsequentes...) 
+
+
+- "Dilema" da parte e do todo na integração das experiências vividas...
+
+## Dinâmica do eu
+
+- O papel central da (construção, desconstrução e reconstrução) da auto-imagem
